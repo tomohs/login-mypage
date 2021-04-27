@@ -1,0 +1,83 @@
+header{
+    width:100%;
+    border-bottom: 2px solid gray;
+}
+  
+.headerpic{
+    margin:0 auto;
+    width:30%;
+}
+
+.headerpic img{
+    width:100%;
+    height:40px;
+}
+
+h2{
+    border-bottom: 2px solid lightgreen;
+    margin:0 auto;
+    padding-top:10px;
+    text-align: center;
+    width:90%;
+}
+
+.wrapper{
+    width:60%;
+    margin:20px auto;
+    border:2px solid lightgray;
+    border-radius:10px;
+    box-shadow: 4px 4px 4px lightgray;
+}
+
+.register{
+    padding:10px 40px;
+}
+
+span{
+    background-color: lightgreen;
+    color:white;
+    margin :2px 4px;
+    padding:4px;
+}
+
+.wrapper p{
+    font-size:14px;
+}
+.kakunin{
+    text-align: center;
+}
+
+.btn {
+    width:120px;
+    text-align: center;
+    padding:5px 5px;
+    color:white;
+    border:1px solid #aaa;
+    border-radius:5px;
+    box-shadow: 1px 1px #aaa;
+}
+
+.button{
+    text-align: center;
+    padding-bottom: 5px;
+}
+form{
+    display:inline-block;
+    margin:0 2px 0 0;
+}
+
+.regist{
+    background-color:green;
+}
+
+.return{
+    background-color:lightgray;
+}
+
+footer{
+    width:100%;
+    border-top: 2px solid gray;
+    text-align: center;
+    position: absolute;
+    bottom: 0px;
+}
